@@ -10,9 +10,10 @@ export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   },
+
   "@modules/login": {
     LOGO_URL:
-      "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png",
+      "https://www.yubico.com/wp-content/uploads/2021/01/illus-shield-unlocked-r1-dk-teal-1.svg",
     BACKGROUND_URL:
       "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/halfbg.png",
     HOME_SCREEN_NAME: "Home Screen",
